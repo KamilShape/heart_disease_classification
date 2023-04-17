@@ -22,6 +22,8 @@ This project use classification models for predict if person has heart disease.
    5.4 Logistic regression - SMOTE
    5.5 Logistic regression - class weight
 6. k - neighbors classifier
+   6.1 Searching best neighbours classifier params
+   6.2 Hamming method
    
 
 #INSTALLATION
