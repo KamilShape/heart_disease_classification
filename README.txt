@@ -1,7 +1,7 @@
 WORKERS REGRESSION PROJECT
 
 # INFO
-This project use classification models predict if person has heart disease.
+This project use classification models for predict if person has heart disease.
 
 # TECHNOLOGIES
 * Python 3.11
